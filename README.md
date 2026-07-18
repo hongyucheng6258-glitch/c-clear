@@ -82,8 +82,8 @@ I-多版本   │ J-重复运行时│ K-输入法   │ L-即时通讯
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/your-username/c-drive-cleaner.git
-cd c-drive-cleaner
+git clone https://github.com/hongyucheng6258-glitch/c-clear.git
+cd c-clear
 
 # 2. 运行完整分析（控制台输出）
 .\analyze.ps1
